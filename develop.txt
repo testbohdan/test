@@ -1,0 +1,3 @@
+Create new design
+Create 10 class
+Delete .o file
